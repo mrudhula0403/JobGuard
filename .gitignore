@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local dataset and user-generated data
+fake_job_postings.csv
+batch_test.csv
+feedback.csv
+
+# Streamlit and editor state
+.streamlit/secrets.toml
+.vscode/
+.idea/
